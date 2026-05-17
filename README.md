@@ -2,6 +2,7 @@
 
 A Python-based **Reactive Transport Model (RTM)** that simulates CO₂ mineral trapping in basaltic rock formations using the **PHREEQC geochemical engine**. Designed for studying carbon capture and storage (CCS) in deep basalt aquifers with support for two geological regions: **CRBG** (Columbia River Basalt Group, USA) and **MHOW** (Deccan Trap Basalt, India).
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20260306.svg)](https://doi.org/10.5281/zenodo.20260306)
 ---
 
 ## 📌 Features
