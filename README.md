@@ -23,7 +23,7 @@ A Python-based **Reactive Transport Model (RTM)** that simulates CO₂ mineral t
 ├── run_rtm.py          # Main simulation script — configure and run RTM scenarios
 ├── phreeqc_engine.py   # Core geochemical engine — PHREEQC interface, kinetics, transport
 ├── RTM_plots.py        # Plotting and visualization — generates publication-quality figures
-├── llnl.dat            # PHREEQC thermodynamic database (required, not included)
+├── llnl.dat            # PHREEQC thermodynamic database (required, not included, comes from phreeqc software as you download from https://www.usgs.gov/software/phreeqc-version-3)
 └── README.md
 ```
 
