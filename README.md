@@ -1,6 +1,6 @@
 # 🌋 Reactive Transport Model (RTM) for CO₂ Sequestration in Basalt
 
-A Python-based **Reactive Transport Model (RTM)** that simulates CO₂ mineral trapping in basaltic rock formations using the **PHREEQC geochemical engine**. Designed for studying carbon capture and storage (CCS) in deep basalt aquifers — with support for two geological regions: **CRBG** (Columbia River Basalt Group, USA) and **MHOW** (Deccan Trap Basalt, India).
+A Python-based **Reactive Transport Model (RTM)** that simulates CO₂ mineral trapping in basaltic rock formations using the **PHREEQC geochemical engine**. Designed for studying carbon capture and storage (CCS) in deep basalt aquifers with support for two geological regions: **CRBG** (Columbia River Basalt Group, USA) and **MHOW** (Deccan Trap Basalt, India).
 
 ---
 
