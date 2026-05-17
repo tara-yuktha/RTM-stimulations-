@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Torel Samyuktha"
+    given-names: "S"
+    affiliation: "IISER Bhopal"
+title: "GeoRTM: Reactive Transport Model for CO₂ Mineralisation in Deccan Basalts"
+version: 1.0.0
+doi: 10.5281/zenodo.20260306
+date-released: 2026-04-01
+url: "https://github.com/YOUR_USERNAME/RTM-Simulation"
