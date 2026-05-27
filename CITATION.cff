@@ -1,28 +1,48 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below.
 
+message: "If you use this software, please cite it using the metadata below."
 
-@software{samyuktha_s_2026_20260306,
-  author       = {Samyuktha S, Torel and
-                  Adak, Subhadip and
-                  Mallik, Jyotirmoy},
-  title        = {1-D RTM (Reactive Transport Model) code for
-                   "Evaluating single-burst, continuous, and WAG CO₂
-                   injection through reactive transport modelling in
-                   basalts: controls on carbonation and reservoir
-                   evolution".
-                  },
-  month        = may,
-  year         = 2026,
-  publisher    = {Zenodo},
-  version      = {RTM-Injection-Strategies},
-  doi          = {10.5281/zenodo.20260306},
-  url          = {https://doi.org/10.5281/zenodo.20260306},
-  swhid        = {swh:1:dir:18c33eeb0eb8013859964b983bddbac9df888f32
-                   ;origin=https://doi.org/10.5281/zenodo.20260305;vi
-                   sit=swh:1:snp:a85e2b7423a1f3e800358146cfeb1e31c248
-                   e553;anchor=swh:1:rel:cc72a5d45a6ea819ca315f2aaf5c
-                   04e16904c053;path=tara-yuktha-RTM-stimulations--
-                   06fbf9d
-                  },
-}
+title: >-
+  1-D RTM (Reactive Transport Model) code for
+  "Evaluating single-burst, continuous, and WAG CO₂ injection
+  through reactive transport modelling in basalts:
+  controls on carbonation and reservoir evolution"
+
+type: software
+
+authors:
+  - family-names: "Samyuktha"
+    given-names: "Torel S"
+
+  - family-names: "Adak"
+    given-names: "Subhadip"
+
+  - family-names: "Mallik"
+    given-names: "Jyotirmoy"
+
+version: "RTM-Injection-Strategies"
+
+date-released: 2026-05
+
+doi: 10.5281/zenodo.20260306
+
+repository-code: "https://github.com/YOUR-USERNAME/YOUR-REPO"
+
+url: "https://doi.org/10.5281/zenodo.20260306"
+
+license: MIT
+
+abstract: >-
+  A one-dimensional reactive transport model developed to evaluate
+  single-burst, continuous, and WAG CO₂ injection strategies in
+  basalt reservoirs, focusing on carbonation processes and
+  reservoir evolution.
+
+keywords:
+  - Reactive Transport Modelling
+  - CO2 sequestration
+  - Basalt carbonation
+  - WAG injection
+  - Reservoir evolution
+  - Geochemistry
+  - Carbon mineralization
